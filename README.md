@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/-python-brightgreen)
+
+[![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"hsoh4023@gmail.com")
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0423&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
