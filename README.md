@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Stack
-![](https://img.shields.io/badge/-python-brightgreen) ![](https://img.shields.io/badge/-Java-important) ![](https://img.shields.io/badge/-BERT-yellow) ![](https://img.shields.io/badge/-KoGPT2-informational) 
+![](https://img.shields.io/badge/-python-brightgreen) ![](https://img.shields.io/badge/-Java-important) ![](https://img.shields.io/badge/-BERT-yellow) ![](https://img.shields.io/badge/-KoGPT2-informational) ![](https://img.shields.io/badge/-NLP-green) 
 
 [![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"hsoh4023@gmail.com")
 
