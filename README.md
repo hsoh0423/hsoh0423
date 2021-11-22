@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-![](https://img.shields.io/badge/-python-brightgreen)
+### Stack
+![](https://img.shields.io/badge/-python-brightgreen)![](https://img.shields.io/badge/-Java-brightgreen)
 
 [![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"hsoh4023@gmail.com")
 
