@@ -1,6 +1,6 @@
 # 오한석
 
-### 인공지능 개발자를 목표로 공부하는 중
+### 인공지능 연구 및 개발을 위한 나의 기록
 
 http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/hsoh0423)
 
