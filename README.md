@@ -1,4 +1,8 @@
-## Hi there 👋
+# 오한석
+
+## 다양한 분야의 인공지능을 공부하고 있습니다
+
+http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123](https://blog.naver.com/hsoh0423)
 
 ### Stack
 ![](https://img.shields.io/badge/-python-brightgreen) ![](https://img.shields.io/badge/-Java-important) ![](https://img.shields.io/badge/-BERT-yellow) ![](https://img.shields.io/badge/-KoGPT2-informational) ![](https://img.shields.io/badge/-NLP-green) 
