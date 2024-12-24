@@ -1,6 +1,6 @@
 # 오한석
 
-## 인공지능 연구 및 개발을 위한 나의 기록
+## 인공지능 연구 및 개발을 위한 여정
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/hsoh0423)](https://blog.naver.com/hsoh0423)
 
